@@ -1,5 +1,5 @@
 {
-    "name": "codingyu/ueditor",
+    "name": "terranc/ueditor",
     "description": "UEditor extension for laravel-admin",
     "type": "library",
     "keywords": [
@@ -7,17 +7,17 @@
         "extension",
         "ueditor"
     ],
-    "homepage": "https://github.com/codingyu/UEditor",
+    "homepage": "https://github.com/terranc/UEditor",
     "license": "MIT",
     "authors": [
         {
-            "name": "codingyu",
-            "email": "everceyu@gmail.com"
+            "name": "terranc",
+            "email": "terran.chao@gmail.com"
         }
     ],
     "require": {
         "php": ">=7.0.0",
-        "encore/laravel-admin": "~1.6",
+        "encore/laravel-admin": "~1.8",
         "codingyu/laravel-ueditor": "~2.0"
     },
     "require-dev": {
